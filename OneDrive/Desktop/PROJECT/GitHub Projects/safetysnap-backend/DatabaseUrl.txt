@@ -1,0 +1,1 @@
+postgresql://safetysnap_db_user:TuLW1xO5t9ZGGY4EwVSIAuQAgrJZ0YhG@dpg-d3hnvp7fte5s73d3kqgg-a/safetysnap_db 
