@@ -1,0 +1,19 @@
+# Environment variables
+.env
+
+# Python virtual environment
+venv/
+
+# Database files
+*.db
+*.sqlite3
+
+# AI Models
+*.pt
+
+# Uploaded media
+uploads/
+
+# Python cache
+__pycache__/
+*.pyc
